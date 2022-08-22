@@ -5,7 +5,7 @@ body, head {
 }
 
 .top-section {
-  background-image: url("C:/Users/paspa/Documenti/WebDevelopment/IPTracker/public/pattern-bg.png");
+  background-image: url("pattern-bg.png");
   background-repeat: no-repeat;
   height: 190px;
   width: auto;
